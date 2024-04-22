@@ -20,3 +20,7 @@ python cutdiffusion.py --experiment_name="cutdiffusion" \
     --stride=64 \
     --shuffle 
 ``` 
+
+## Acknowledgement
+We would like to express our profound appreciation and respect towards [MultiDiffusion](https://multidiffusion.github.io/), which has been a significant source of inspiration for our concept. 
+Furthermore, our code is heavily influenced by the principles and methodologies established in [DemoDiffusion](https://ruoyidu.github.io/demofusion/demofusion.html).
