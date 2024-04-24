@@ -1,5 +1,5 @@
 # CutDiffusion 
-Code release for "CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method" 
+Code release for "CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method" [Paper Link](https://arxiv.org/abs/2404.15141).
 
 ## Experiments environment
 ### Set up the dependencies as:
