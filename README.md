@@ -22,15 +22,16 @@ python cutdiffusion.py --experiment_name="cutdiffusion" \
 ``` 
 
 ## Visual results of our CutDiffusion on SDXL (1024×1024) with Ultra-higher resolutions.
+### Prompt: A picturesque mountain scene with a clear lake reflecting the surrounding peaks (4096×4096)
+
+
+![](assets/A%20picturesque%20mountain%20scene%20with%20a%20clear%20lake%20reflecting%20the%20surrounding%20peaks.png)
 
 ### Prompt: a fantasy forest. (4096×4096)
 
 ![](assets/a%20fantasy%20forest.png)
 
-### Prompt: A picturesque mountain scene with a clear lake reflecting the surrounding peaks (4096×4096)
 
-
-![](assets/A%20picturesque%20mountain%20scene%20with%20a%20clear%20lake%20reflecting%20the%20surrounding%20peaks.png)
 
 ### Prompt: The vast starry sky. (8192×8192)
 
